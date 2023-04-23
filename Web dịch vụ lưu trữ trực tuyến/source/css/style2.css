@@ -1,0 +1,130 @@
+
+.navbar-brand {
+    /* color: black; */
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.nav-link {
+    color: black;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+#submit-btn {
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+#header {
+    margin: 150px auto;
+}
+
+b {
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+}
+.text {
+    font-size: 31px;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 25px auto;
+    width: 50%;
+    color: white;
+}
+.text-2 {
+    font-size: 31px;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 25px auto;
+    width: 55%;
+}
+#btnlogin {
+    color: black;
+    font-family: sans-serif;
+    font-size: 18px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    /* border-color: black; */
+    border-width: 2px;
+    
+}
+
+#btnsignup {
+    color: black;
+    font-family: sans-serif;
+    font-size: 18px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    /* border-color: black; */
+    border-width: 2px;
+    
+}
+.btn-outline-infor {
+    background-color: linear-gradient(to left top,#33FFFF,#0099FF);
+}
+#content {
+    font-family: sans-serif;
+    font-size: 18px;
+}
+#title {
+    font-family: sans-serif;
+    font-size: 30px;
+}
+#header2 {
+    margin: 150px auto;
+    color: #0099FF;
+    margin-top: 50px;
+}
+.btn.btn-primary {
+    background: #0099FF;
+    /* margin-left: 90px; */
+    font-size: 20px;
+}
+svg {
+    color: black;
+    width: 25px ;
+    margin-top: -7px;
+    margin-right: -5px;
+}
+/* .nav-item.active {
+    background-color: aqua;
+} */
+#login-btn {
+    font-size: 25px;
+}
+#div_home_icon {
+    position: relative;
+}
+.nav-link-title {
+    box-sizing: border-box;
+    font-size: 20px;
+}
+.nav-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+/* b {
+    font-size: 20px;
+} */
+.header {
+    box-shadow: inset 0 -1px  0 0 rgba(101, 109, 119, 0.16);
+    background-color: #ffffff;
+    
+}
+
+#lilogin {
+    margin-right : 10px;
+    margin-left: 10px;
+}
+#licreate-account {
+    margin-right : 10px;
+    margin-left: 10px;
+}
+#views {
+    margin-top: -60px;
+}
+header {
+position: fixed;
+width: 100%;
+}
